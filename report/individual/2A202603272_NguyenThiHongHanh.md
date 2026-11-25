@@ -122,9 +122,7 @@ MSSV người đã kiểm chéo: 2A202603271. Hai con số đối chiếu với 
 2. Ở cự ly xa hoặc khi bị che khuất, vật thể chỉ còn vài điểm phản xạ; nếu không có quy tắc chuẩn hóa (như ngưỡng tối thiểu 15–20% thể tích và đối chiếu kích thước tiên nghiệm từ bảng 4.3), người gán nhãn sẽ phỏng đoán tùy tiện gây ra hiện tượng nhãn nhiễu (label noise), làm suy giảm độ chính xác và khiến mô hình học sai hình học vật thể.
 
 (b) Dùng AI:
-- Công cụ: Antigravity AI Assistant.
-- Câu hỏi chính: Nhờ kiểm tra cú pháp script, trích xuất đối soát dữ liệu từ Bảng A và phiếu tự kiểm tra CSV, rà soát các điều kiện nộp bài theo Rubric.
-- Bạn dùng kết quả thế nào: Dùng kết quả phân tích thống kê để điền chính xác các thông số số học (r, z đáy, góc yaw, phân bố mật độ điểm theo khoảng cách) vào báo cáo và rà soát các lỗi định dạng của bài nộp.
+
 
 (c) Điều còn chưa chắc, lỗi phát hiện sau hạn:
 Một số xe hai bánh (Cyclist) ở khoảng cách trên 15 m di chuyển sát nhau trên làn đường hỗn hợp rất khó phân tách ranh giới chính xác giữa người dắt xe và xe đi liền kề; ngoài ra độ dốc vi mô của mặt đường ở các frame sequence_03 và sequence_05 làm việc xác định cao độ đáy z_bottom của các vật thể ở xa ngoài 35 m còn phụ thuộc vào phán đoán chủ quan.
